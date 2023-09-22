@@ -1,5 +1,3 @@
-# Project Name
-
 ## Bitcoin Transactions Types and their Impact on Storage Scalability
 
 This project investigates different Bitcoin transaction types and analyzes their impact on storage scalability. It involves a large formatted file of 90 GB, which is essential for the analysis.
