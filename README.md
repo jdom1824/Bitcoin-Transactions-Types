@@ -4,7 +4,7 @@ This project investigates different Bitcoin transaction types and analyzes their
 
 ## Large File
 
-Due to the file's size, it is not stored directly in this repository. However, you can access and download it using the following link:
+Due to the file's size, it is not stored directly in this repository. However, you can access and download it using the following link. Please note that you may need to request access through Google Drive to download the file.
 
 [Download Large File](https://drive.google.com/file/d/1o7lFv-dQJ0yTPLyZtmHa-a8_mC89HCHC)
 
